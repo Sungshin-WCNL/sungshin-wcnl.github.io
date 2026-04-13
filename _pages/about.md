@@ -19,6 +19,7 @@ Our lab explores a wide range of topics in wireless connectivity and intelligent
 * **AI-Driven Wireless Networks**: Integrating machine learning with stochastic models for intelligent radio resource management and network optimization.
 
 ## News
+
 * **[Apr. 2026]** We are looking for motivated undergraduate and graduate students. If you are interested in joining WCNL, please contact us.
 * **[Apr. 2026]** The WCNL lab website is officially launched!
 
