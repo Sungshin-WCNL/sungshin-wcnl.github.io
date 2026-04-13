@@ -8,14 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast"
 title                    : "Junse Lee / Wireless Communications and Network Lab"
 title_separator          : "-"
 name                     : &name "Junse Lee"
-description              : &description "Wireless Communications and Network Lab at Sungshin Women's University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sungshin-wcnl.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Wireless Communications and Network Lab at Sungshin Women's University"
+url                      : "https://sungshin-wcnl.github.io"
+baseurl                  : ""
 repository               : "Sungshin-WCNL/sungshin-wcnl.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
