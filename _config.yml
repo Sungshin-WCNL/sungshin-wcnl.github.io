@@ -22,7 +22,7 @@ repository               : "Sungshin-WCNL/sungshin-wcnl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "https://sungshin-wcnl.github.io/images/bio-photo.jpg"
   name             : "Junse Lee"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
