@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the **Wireless Communications and Network Laboratory (WCNL, 무선통신네트워크 연구)** at Sungshin Women's University.
+Welcome to the **Wireless Communications and Network Laboratory (WCNL, 무선통신네트워크 연구실)** at Sungshin Women's University.
 
 Our research focuses on the design, analysis, and optimization of **Next-Generation Wireless Communication Systems**. We are dedicated to developing core technologies for future hyper-connected societies, including 6G mobile communications, and AI-native wireless networks.
 
